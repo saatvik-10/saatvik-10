@@ -72,8 +72,8 @@
 
   <h3 align="left">👨‍💻  Leetcode Stats :</h3>
 
-<div align="center">
+
   ![Leetcode Stats](https://leetcard.jacoblin.cool/saatvik-10)
-</div>
+
 
 ###
