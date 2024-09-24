@@ -66,14 +66,10 @@
 
 ###
 
-<div align="center">
+<div align="flex center">
   <img src="https://streak-stats.demolab.com?user=saatvik-10&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-  <h3 align="left">👨‍💻  Leetcode Stats :</h3>
-
-
   ![Leetcode Stats](https://leetcard.jacoblin.cool/saatvik-10)
+</div>
 
 
 ###
