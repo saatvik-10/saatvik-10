@@ -69,7 +69,7 @@
 
   <img src="https://streak-stats.demolab.com?user=saatvik-10&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   
-  (https://leetcard.jacoblin.cool/saatvik-10)
+  https://leetcard.jacoblin.cool/saatvik-10
 
 
 
