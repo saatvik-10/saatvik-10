@@ -72,7 +72,7 @@
 
 
   
-  https://leetcard.jacoblin.cool/saatvik-10
+ ![](https://leetcard.jacoblin.cool/leetcode?site=cn)
 
 
 
