@@ -35,7 +35,7 @@
   <a href="https://www.instagram.com/saatvik___10/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram" />
   </a>
-  <a href="mailto:saatvikmadan529@gmail.com" target="_blank">
+  <a href="mailto:yello@itsaatvik.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/saatvik-madan-9ab4a32a9/" target="_blank">
@@ -48,7 +48,6 @@
 
 ---
 
-<h3 align="left">🐍 Snake Animation:</h3>
 <img src="https://raw.githubusercontent.com/saatvik-10/saatvik-10/output/snake.svg" alt="Snake Animation" />
 
 ---
