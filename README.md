@@ -22,6 +22,7 @@
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="Express.js" />
   <a href="https://www.prisma.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="30" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
