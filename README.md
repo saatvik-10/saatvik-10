@@ -51,11 +51,7 @@
 ---
 
 <h3 align="left">✨ Commits:</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saatvik-10/saatvik-10/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saatvik-10/saatvik-10/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/saatvik-10/saatvik-10/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/saatvik-10/saatvik-10/output/snake.svg" alt="Snake animation" />
 
 ---
 
