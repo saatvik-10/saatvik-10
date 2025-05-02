@@ -50,18 +50,12 @@
 
 ---
 
+<h3 align="left">📫 Commits:</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saatvik-10/saatvik-10/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saatvik-10/saatvik-10/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/saatvik-10/saatvik-10/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-<h3 align="left">🔥 My Stats:</h3>
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=saatvik-10&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak Stats" />
-</div>
 
 ---
 
