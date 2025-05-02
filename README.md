@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saatvik-10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saatvik-10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="Most Used Languages" />
 </div>
 
 ---
@@ -50,7 +50,7 @@
 
 ---
 
-<h3 align="left">📫 Commits:</h3>
+<h3 align="left">✨ Commits:</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saatvik-10/saatvik-10/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saatvik-10/saatvik-10/output/pacman-contribution-graph.svg">
