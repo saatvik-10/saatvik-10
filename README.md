@@ -13,6 +13,7 @@
 
 <h3 align="left">💻 Tech Stack:</h3>
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="Rust"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
