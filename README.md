@@ -1,5 +1,5 @@
 <h2 align="left">Hi there! 👋 I'm Saatvik</h2>
-<p align="left">Heard my name for the first time? Don't worry, you'll be seeing it more often because I'm here to play a long inning. 🚀</p>
+<p align="left">Heard my name for the first time? Don't worry, you'll be seeing it more often coz I'm here to play a long inning :) 🚀</p>
 
 ---
 
