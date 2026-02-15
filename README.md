@@ -54,10 +54,3 @@
 
 <h3 align="left">✨ Commits:</h3>
 <img src="https://raw.githubusercontent.com/saatvik-10/saatvik-10/output/snake.svg" alt="Snake animation" />
-
----
-
-<h3 align="left">🚀 Leetcode Stats:</h3>
-<div align="left">
-  <img src="https://leetcard.jacoblin.cool/saatvik-10" alt="Leetcode Stats" />
-</div>
