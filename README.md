@@ -12,7 +12,7 @@
 <!-- <img align="right" height="165" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWs5anczcW5oMGF4YWNuNGZkaTBwM2RranM3djQxNTN2NGkzeWFieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" /> -->
 
 <h3 align="left">💻 Tech Stack:</h3>
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
