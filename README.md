@@ -13,41 +13,41 @@
 
 <h3 align="left">💻 Tech Stack:</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo"  />
+  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="nginx logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="60" alt="prometheus logo"  />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="50" alt="prometheus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="60" alt="grafana logo"  />
+  <img src="https://skillicons.dev/icons?i=grafana" height="50" alt="grafana logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
 </div>
 
 
