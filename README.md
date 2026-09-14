@@ -3,15 +3,14 @@
 
 ---
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saatvik-10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="200" alt="Most Used Languages" />
-</div> -->
-
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=saatvik-10)](https://github.com/stats-organization/github-stats-extended)
-
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=saatvik-10&layout=compact)](https://github.com/stats-organization/github-stats-extended)
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=saatvik-10&layout=compact&langs_count=6&theme=transparent&hide_border=true"
+      alt="Most Used Languages"
+    />
+  </a>
 
 </div>
 
