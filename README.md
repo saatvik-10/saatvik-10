@@ -7,7 +7,7 @@
 
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=saatvik-10&layout=compact&langs_count=6&theme=transparent&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=saatvik-10&layout=compact&langs_count=6&theme=dracula&hide_border=false"
       alt="Most Used Languages"
     />
   </a>
