@@ -44,8 +44,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo"  />
-   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
